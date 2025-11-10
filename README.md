@@ -28,7 +28,7 @@ What I completed:
 
 -> Verified the download from AWS using curl to ensure the Raspberry Pi will be able to access it later.
 
-![](<WhatsApp Image 2025-11-05 at 00.11.06_5589ba9d.jpg>)
+![](aws_setup_verification.jpg)
 
 I also spent time understanding how the OTA process will run end-to-end. Specifically, I looked into the A/B partitioning method where:
 
