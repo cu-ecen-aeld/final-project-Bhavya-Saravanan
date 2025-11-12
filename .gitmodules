@@ -8,3 +8,7 @@
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 	branch = kirkstone
+[submodule "meta-mender"]
+	path = meta-mender
+	url = https://github.com/mendersoftware/meta-mender.git
+	branch = kirkstone
